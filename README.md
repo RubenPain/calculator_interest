@@ -1,4 +1,4 @@
-# interest
+# Calculator Interest
 
 A new Flutter project.
 
